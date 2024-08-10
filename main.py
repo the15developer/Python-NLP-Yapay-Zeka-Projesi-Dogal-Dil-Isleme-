@@ -12,8 +12,8 @@ import sqlite3
     
 def main():
     
-    api_key = 'AIzaSyBXJrBvvGYBvPPWppf5LB2qK5DeIOjzRc8'
-    search_engine_id = 'e631aed3d856b4358'
+    api_key = ''          #enter your google search engine API KEY here
+    search_engine_id = '' #enter your google search engine ID here
     text_searcher = TextSearcher(api_key, search_engine_id)
 
     #Veri tabanı mevcut ise bağlanılır, mevcut
