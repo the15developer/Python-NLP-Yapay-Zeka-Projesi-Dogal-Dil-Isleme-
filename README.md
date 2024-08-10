@@ -1,6 +1,7 @@
 # Python-NLP-Yapay-Zeka-Projesi-Dogal-Dil-Isleme-
 
 EN:
+
 This Python project is designed to analyze Turkish texts using advanced Natural Language Processing (NLP) techniques and retrieve relevant information from the internet via Google searches. The project handles a text input from the user, identifying the main topic and subtopics within the text. After processing, the user is prompted to choose the next action: search for more information about the main topic, select a subtopic to explore, or input a new text. Once at least two texts have been analyzed, the project can also perform a search based on the overall discussion topic.
 
 A key feature of this project is its focus on the Turkish language, which presents unique challenges compared to English. Turkish is an agglutinative language ("sondan eklemeli dil"), where words are formed by adding suffixes to a root. This structure increases the complexity of text analysis. Additionally, there are fewer libraries available for Turkish NLP, making the task of accurately identifying and processing topics more difficult :
@@ -21,6 +22,7 @@ The project demonstrates how to integrate NLP with real-time web searches, offer
 
 
 TR:
+
 Bu proje, gelişmiş Doğal Dil İşleme (NLP) tekniklerini kullanarak Türkçe metinleri analiz etmek ve Google aramaları aracılığıyla internetten ilgili bilgileri getirmek için tasarlanmıştır. Proje, kullanıcıdan gelen bir metin girişini ele alarak metindeki ana konuyu ve alt konuları belirler. İşlemden sonra, kullanıcıdan bir sonraki eylemi seçmesi istenir: ana konu hakkında daha fazla bilgi arama, keşfetmek için bir alt konu seçme veya yeni bir metin girme. En az iki metin analiz edildikten sonra, proje genel sohbet konusuna göre bir arama da gerçekleştirebilir.
 
 Bu projenin temel bir özelliği, İngilizceye kıyasla benzersiz zorluklar sunan Türkçe diline odaklanmasıdır. Türkçe, kelimelerin bir köke ekler eklenerek oluşturulduğu, sondan eklemeli bir dildir. Bu yapı, metin analizinin karmaşıklığını artırır. Ek olarak, Türkçe NLP için daha az kütüphane mevcuttur ve bu da konuları doğru bir şekilde belirleme ve işleme görevini daha zor hale getirir :
