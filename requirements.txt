@@ -1,0 +1,8 @@
+zemberek-python==0.2.3
+zeyrek
+sqlite3
+genism
+nltk
+logging
+requests
+bs4
